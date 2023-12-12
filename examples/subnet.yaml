@@ -10,7 +10,7 @@ subnet:
   vms:
     - "<your vms here>"
   config:
-    # This the default subnet config as of avalanchego v1.7.10
+    # This the default subnet config as of luxgo v1.7.10
     - gossipAcceptedFrontierValidatorSize: 0
     - gossipAcceptedFrontierNonValidatorSize: 0
     - gossipAcceptedFrontierPeerSize: 35

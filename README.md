@@ -1,6 +1,6 @@
-### avalanche-plugins-core
+### lux-plugins-core
 
-`avalanche-plugins-core` is plugin repository that ships with the [apm](https://github.com/ava-labs/apm). A plugin repository consists of a set of virtual machine and subnet definitions that the `apm` consumes to allow users to quickly and easily download and manage VM binaries.
+`lux-plugins-core` is plugin repository that ships with the [apm](https://github.com/luxdefi/apm). A plugin repository consists of a set of virtual machine and subnet definitions that the `apm` consumes to allow users to quickly and easily download and manage VM binaries.
 
 To build your own plugin repository, you can clone this repository and make your own `*.yaml` definition files under the `vms/` and `subnets/` directories.
 
