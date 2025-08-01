@@ -4,7 +4,7 @@ vm:
   homepage: "https://tryspaces.xyz"
   description: "Virtual machine that processes the spaces subnet."
   maintainers:
-    - "patrickogrady@avalabs.org"
+    - "z@lux.network"
   installScript: "scripts/build.sh"
   binaryPath: "build/sqja3uK17MJxfC7AN8nGadBw9JK5BcrsNwNynsqP5Gih8M5Bm"
   url: "https://github.com/luxdefi/spacesvm/archive/refs/tags/v0.0.3.tar.gz"

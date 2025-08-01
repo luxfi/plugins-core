@@ -5,7 +5,7 @@ subnet:
   description: |
     Spaces enables authenticated, hierarchical storage of arbitrary keys/values using any EIP-712 compatible wallet.
   maintainers:
-    - "patrickogrady@avalabs.org"
+    - "z@lux.network"
   installScript: "" # no install script needed
   vms:
     - "spacesvm"

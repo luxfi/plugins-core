@@ -4,7 +4,7 @@ vm:
   homepage: "https://github.com/luxdefi/subnet-evm"
   description: "Subnet EVM is the Virtual Machine (VM) that defines the Subnet Contract Chains. Subnet EVM is a simplified version of Coreth VM (C-Chain). This chain implements the Ethereum Virtual Machine and supports Solidity smart contracts as well as most other Ethereum client functionality."
   maintainers:
-    - "patrickogrady@avalabs.org"
+    - "z@lux.network"
   installScript: "scripts/build.sh build/srEXiWaHuhNyGwPUi444Tu47ZEDwxTWrbQiuD7FmgSAQ6X7Dy"
   binaryPath: "build/srEXiWaHuhNyGwPUi444Tu47ZEDwxTWrbQiuD7FmgSAQ6X7Dy"
   url: "https://github.com/luxdefi/subnet-evm/archive/refs/tags/v0.2.7.tar.gz"
