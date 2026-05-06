@@ -1,0 +1,14 @@
+vm:
+  id: "mgj786NP7uDwBCcq6YwThhaN8FLyybkCa4zBWTQbNgmK6k9A6"
+  alias: "evm"
+  homepage: "https://github.com/luxfi/evm"
+  description: "Lux EVM is the canonical Ethereum Virtual Machine for Lux Network — single VM ID for both C-Chain (primary network) and EVM-based subnets. CB58(ids.ID{'e','v','m'}) per luxfi/constants.EVMID."
+  maintainers:
+    - "z@lux.network"
+  installScript: "scripts/build.sh build/mgj786NP7uDwBCcq6YwThhaN8FLyybkCa4zBWTQbNgmK6k9A6"
+  binaryPath: "build/mgj786NP7uDwBCcq6YwThhaN8FLyybkCa4zBWTQbNgmK6k9A6"
+  url: "https://github.com/luxfi/evm"
+  version:
+    major: 0
+    minor: 8
+    patch: 21
