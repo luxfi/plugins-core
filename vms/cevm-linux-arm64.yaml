@@ -1,0 +1,19 @@
+vm:
+  id: "mgj786NP7uDwBCcq6YwThhaN8FLyybkCa4zBWTQbNgmK6k9A6"
+  alias: "cevm-linux-arm64"
+  homepage: "https://github.com/luxcpp/cevm"
+  description: |
+    cevm — C++ implementation of the Lux EVM VM plugin (linux/arm64).
+    Drop-in replacement for the Go luxfi/evm under the canonical
+    Lux EVM VM ID (CB58 of {'e','v','m'}, luxfi/constants.EVMID).
+    Apache 2.0. evmone fork v0.19.0 base.
+  maintainers:
+    - "z@lux.network"
+  installScript: "scripts/install.sh"
+  binaryPath: "cevm"
+  url: "https://github.com/luxcpp/cevm/releases/download/v0.48.0/cevm-plugin-v0.48.0-linux-arm64.tar.gz"
+  sha256: "0000000000000000000000000000000000000000000000000000000000000000"
+  version:
+    major: 0
+    minor: 48
+    patch: 0
